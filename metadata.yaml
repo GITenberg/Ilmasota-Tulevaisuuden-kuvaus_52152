@@ -1,0 +1,36 @@
+_repo: Ilmasota-Tulevaisuuden-kuvaus_52152
+_version: 0.0.1
+alternative_title: The war in the air. Finnish
+contributor:
+  translator:
+    agent_name: Wallenius, Toivo
+    birthdate: 1881
+    deathdate: 1919
+    gutenberg_agent_id: '43144'
+    url: http://www.gutenberg.org/2009/agents/43144
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2016-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52152'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Air warfare -- Fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: 'Ilmasota: Tulevaisuuden kuvaus'
+url: http://www.gutenberg.org/ebooks/52152
